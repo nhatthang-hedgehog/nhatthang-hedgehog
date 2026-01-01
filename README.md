@@ -17,13 +17,15 @@ const nhatThang = {
   currentFocus: [
     "⚛️ React & Next.js",
     "🎨 Modern UI/UX Design",
-    "🧼 Clean Code & Component Architecture"
+    "🧼 Clean Code & Component Architecture",
+    "🐳 Docker & Containerization"
   ],
   technicalSkills: [
     "🌐 HTML, CSS, JavaScript (ES6+)",
     "⚛️ React, Next.js, Tailwind CSS",
     "🐘 Basic PHP MVC",
-    "🔧 Git & GitHub"
+    "🔧 Git & GitHub",
+    "🐳 Docker"
   ],
   strengths: [
     "🎯 Strong UI attention to detail",
