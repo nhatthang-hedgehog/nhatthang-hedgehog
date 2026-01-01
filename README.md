@@ -34,56 +34,152 @@ const nhatThang = {
   lookingFor: "🎓 Frontend Developer Intern position",
   funFact: "🛒 I enjoy building complex cart logic and polishing UI interactions ✨"
 };
-🧠 What I Care About 💭
+```
+### 🧠 What I Care About 💭
+- 🧼 Writing clean, readable, maintainable code
+- 📱 Building responsive & user-friendly interfaces
+- 🚀 Learning real-world best practices
+- 🎨 Improving UI/UX thinking, not just functionality
 
-🧼 Writing clean, readable, maintainable code
+---
 
-📱 Building responsive & user-friendly interfaces
+## 🛠️ Tech Stack ⚙️
 
-🚀 Learning real-world best practices
+### 🎨 Frontend
+<p align="center">
+  <img title="HTML" src="https://skillicons.dev/icons?i=html" />
+  <img title="CSS" src="https://skillicons.dev/icons?i=css" />
+  <img title="JavaScript" src="https://skillicons.dev/icons?i=js" />
+  <img title="TypeScript" src="https://skillicons.dev/icons?i=ts" />
+  <img title="React" src="https://skillicons.dev/icons?i=react" />
+  <img title="Next.js" src="https://skillicons.dev/icons?i=nextjs" />
+  <img title="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind" />
+</p>
 
-🎨 Improving UI/UX thinking, not just functionality
+### ⚙️ Backend & Tools
+<p align="center">
+  <img title="PHP" src="https://skillicons.dev/icons?i=php" />
+  <img title="Node.js" src="https://skillicons.dev/icons?i=nodejs" />
+  <img title="MySQL" src="https://skillicons.dev/icons?i=mysql" />
+  <img title="Git" src="https://skillicons.dev/icons?i=git" />
+  <img title="GitHub" src="https://skillicons.dev/icons?i=github" />
+  <img title="VSCode" src="https://skillicons.dev/icons?i=vscode" />
+  <img title="Docker" src="https://skillicons.dev/icons?i=docker" />
+</p>
 
-🛠️ Tech Stack ⚙️
-🎨 Frontend
-<p> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" /> </p>
-⚙️ Backend & Tools
-<p> <img src="https://skillicons.dev/icons?i=php,nodejs,mysql,git,github,vscode,docker" /> </p>
-📌 Featured Projects 📂
-🛒 E-commerce Cart System
+---
 
-➕ Quantity control, select all, order summary
+## 📌 Featured Projects 📂
 
-📱 Fully responsive UI
+<table align="center" width="100%">
+<tr>
+<td align="center" width="50%">
 
-🧰 Tech: JavaScript / Next.js, Tailwind CSS
+**[ChoCongNgheTeam / cho-cong-nghe-web-client](https://github.com/ChoCongNgheTeam/cho-cong-nghe-web-client)**  
+<img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="200" alt="E-commerce Cart" /><br>
+🛒 **E-commerce Cart**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-🔗 Repo Link
+</td>
 
-🧾 Admin & Product Management
+<td align="center" width="50%">
 
-✏️ CRUD products, clean structure
+**[ElectroDev6 / Electro](https://github.com/ElectroDev6/Electro)**  
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" alt="Electro Project" /><br>
+💻 **Project 1 _Poly**  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-🏗️ MVC-style logic
+</td>
+</tr>
 
-🔗 (update link later)
+<tr>
+<td align="center" width="50%">
 
-📊 GitHub Stats 📈
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nhatthang-hedgehog&show_icons=true&theme=dark" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nhatthang-hedgehog&theme=dark" /> </p>
-🏷️ Badges
-<p align="center"> <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen" /> <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white" /> <img src="https://img.shields.io/badge/Portfolio-View-blueviolet" /> </p>
-📫 Let's Connect 🤝
+**[NhaMayMan-Hanh / nhamayman-frontend](https://github.com/NhaMayMan-Hanh/nhamayman-frontend)**  
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" alt="NhaMayMan Frontend" /><br>
+🏗️ **Frontend Project**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-📍 Ho Chi Minh City, Vietnam
+</td>
 
-💼 Open to Frontend Developer Intern roles
+<td align="center" width="50%">
 
-🌱 Always learning, always improving
+**[Angular](https://github.com/nhatthang-hedgehog/Angular)**  
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" alt="Angular Project" /><br>
+🌐 **Angular Practice**  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-🔗 LinkedIn:https://www.linkedin.com/in/th%E1%BA%AFng-nh%E1%BA%ADt-503146330/
+</td>
+</tr>
 
-🔗 Portfolio
+<tr>
+<td align="center" width="50%">
 
-💭 "Build things with care, learn with purpose, grow with consistency."
+**[PHP](https://github.com/nhatthang-hedgehog/PHP)**  
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200" alt="PHP Project" /><br>
+💾 **Backend Practice**  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-⭐️ From nhatthang-hedgehog | Updated January 2026
+</td>
+
+<td align="center" width="50%">
+
+**[React](https://github.com/nhatthang-hedgehog/React)**  
+<img src="https://media.giphy.com/media/xT0BKmtQGLbumr5RCM/giphy.gif" width="200" alt="React Project" /><br>
+⚛️ **React Practice**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats & Badges 📈
+
+<div align="center">
+
+<!-- Contributions -->
+![Contributions](https://img.shields.io/badge/Contributions-294-brightgreen?style=for-the-badge&logo=github)
+
+<!-- GitHub Streak -->
+![Streak](https://img.shields.io/badge/Streak-25_days-blue?style=for-the-badge&logo=github)
+
+<!-- Top Languages -->
+![Top Language](https://img.shields.io/badge/Top%20Language-JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Second Language](https://img.shields.io/badge/Second%20Language-TypeScript-blue?style=for-the-badge&logo=typescript)
+
+<!-- Repo Size -->
+![Repo Size](https://img.shields.io/badge/Repo%20Size-12MB-orange?style=for-the-badge&logo=github)
+
+<!-- Top Projects -->
+![Top Project](https://img.shields.io/badge/Top%20Project-cho--cong--nghe-web--client-purple?style=for-the-badge&logo=github)
+
+</div>
+
+
+
+
+---
+
+## 🏷️ Badges (Dynamic)
+<p align="center">
+  <a href="https://www.linkedin.com/in/nhatthang/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://nhatthang.dev">
+    <img src="https://img.shields.io/badge/Portfolio-View-blueviolet" />
+  </a>
+  <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen" />
+  <img src="https://img.shields.io/github/languages/top/nhatthang-hedgehog?color=blue&label=Top%20Language" />
+  <img src="https://img.shields.io/github/repo-size/nhatthang-hedgehog/cho-cong-nghe-web-client?color=yellow&label=Repo%20Size" />
+</p>
+
+---
+
+## 📫 Let's Connect 🤝
+📍 Ho Chi Minh City, Vietnam  
+💼 Open to Frontend Developer Intern roles  
+🌱 Always learning, always improving  
+🔗 [LinkedIn](https://www.linkedin.com/in/nhatthang/) | 🔗 [Portfolio](https://nhatthang.dev)
